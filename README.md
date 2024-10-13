@@ -20,3 +20,6 @@ My name is Sang Nguyen from Vietnam :vietnam:. I'm a Web developer and founder o
 
 ## Github Contributes
 ![](https://github-readme-stats.vercel.app/api?username=sangnguyenplus&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+---
+![](https://komarev.com/ghpvc/?username=sangnguyenplus&label=Visitors+Count&color=brightgreen)
